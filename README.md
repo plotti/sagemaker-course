@@ -1,9 +1,5 @@
 # Build, Deploy, and Monitor ML Models with Amazon SageMaker
 
-This is the repository for my online course [Build, Deploy, and Monitor ML Models with Amazon SageMaker](https://mlinproduction.teachable.com/p/build-deploy-and-monitor-ml-models-with-amazon-sagemaker?utm_source=mlinproduction&utm_medium=github&utm_campaign=course_repo).
-
-If you'd like to learn more about the course, [check out this webinar](https://twimlai.com/sagemaker?utm_source=ml_in_production_webinar&utm_medium=affiliate_course&utm_campaign=sagemaker_course_202008) I recorded with Sam Charrington of the TWiML podcast.
-
 ## What version of the SageMaker Python SDK does this course use?
 
 The notebooks in this repository rely extensively on the official [SageMaker Python SDK](https://sagemaker.readthedocs.io/en/stable/) to interact with SageMaker. These notebook were originally written and released using version 1.x of the SDK. 
